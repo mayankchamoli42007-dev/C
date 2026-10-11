@@ -1,4 +1,4 @@
-//program to print sum uptp n natural number
+//program to print sum upto n natural number
 
 
 #include<stdio.h>

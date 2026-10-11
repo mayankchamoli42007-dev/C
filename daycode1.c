@@ -1,4 +1,7 @@
-#include<stdio.h>
+
+// swapping of two nnumbers using a third variable
+
+#include<stdio.h> 
 int main(){
     int a,b;
     printf("enter two number");
